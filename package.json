@@ -1,0 +1,14 @@
+{
+  "name": "intro-ai-engineering",
+  "description": "A little javascript project for starting to explore AI features.",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
